@@ -1,8 +1,43 @@
 h1{
     text-align: center;
-    color:red;
+    color:rgb(128, 26, 148);
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
+}
+
+p.a {
+    color: rgb(0,0,255);
+  }
+
+p.b {
+    font-style: italic;
+  }
+  
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+body {
+    background-color: #9df5e6;
+}
+
+span.t1 {
+    color: rgb(250, 235, 19);
+}
+
+span.t2 {
+    color: rgb(26, 109, 23);
+}
+
+span.t3 {
+    color: rgb(124, 23, 37);
+}
+
+span.t4 {
+    color: rgb(250, 131, 19);
 }
